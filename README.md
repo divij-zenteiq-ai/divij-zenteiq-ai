@@ -5,7 +5,7 @@ My personal GitHub profile is [@divijghose](https://github.com/divijghose)
 
 At Zenteiq, I am a Data Scientist building the SciRex platform.
 
-For more information about me, visit [divijghose.github.io](divijghose.github.io)
+For more information about me, visit [divijghose.github.io](https://divijghose.github.io)
 <!--
 **divij-zenteiq-ai/divij-zenteiq-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
